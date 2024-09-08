@@ -1,8 +1,8 @@
-# TILL Discount Calculator
+# Till Discount Calculator
 
 ## Overview
 
-This is a TILL Discount Calculator that calculates discounts for different types of items based on supermarket promotions, including clearance discounts. The system is built using Java and follows Object-Oriented Design principles.
+This is a Till Discount Calculator that calculates discounts for different types of items based on supermarket promotions, including clearance discounts. The system is built using Java and follows Object-Oriented Design principles.
 
 ## Discount Rules
 
